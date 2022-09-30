@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JorgeEduardoFerreira
+- 👀 I’m interested in data base, web development and robotic
+- 🌱 I’m currently learning database and web full stack en JS
